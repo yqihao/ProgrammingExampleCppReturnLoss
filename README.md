@@ -2,9 +2,13 @@
 
 Programming Example
 
+## Example.cpp
+
+The code alone for this project. 
+
 ## C++ simple example/
 
-The folder of the example project.
+The folder contains complete files of the example project.
 
 ## Console Output.txt
 
